@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c2f0246-a564-4d21-8bbc-439d706355ef" name="Changes" comment="Klara uppgiften">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämning/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämning/Input.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c2f0246-a564-4d21-8bbc-439d706355ef" name="Changes" comment="Klara uppgiften" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +147,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1667646723969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Klara uppgiften">
+      <created>1667725180255</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1667725180255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
