@@ -48,11 +48,11 @@ public class Input {
 
     public String getLongestWord2(String inputReader) {
 
-        String CurrentLongest = Arrays.stream(inputReader.split(" "))
+        String NewLongest = Arrays.stream(inputReader.split(" "))
                 .max(Comparator.comparingInt(String::length))
                 .orElse(null);
-        if (CurrentLongest.length() > Longest.length()) {
-            return CurrentLongest;
+        if (NewLongest.length() > Longest.length()) {
+            return NewLongest;
 
         }
         return Longest;
