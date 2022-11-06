@@ -42,17 +42,17 @@ public class Input {
         return Words;
     }
 
-    public String getLongestWord( /*String[] array*/) {
+    public String getLongestWord() {
         return Longest;
     }
 
     public String getLongestWord2(String inputReader) {
 
-        String longest = Arrays.stream(inputReader.split(" "))
+        String CurrentLongest = Arrays.stream(inputReader.split(" "))
                 .max(Comparator.comparingInt(String::length))
                 .orElse(null);
-        if (longest.length() > Longest.length()) {
-            return longest;
+        if (CurrentLongest.length() > Longest.length()) {
+            return CurrentLongest;
 
         }
         return Longest;
