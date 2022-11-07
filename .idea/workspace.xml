@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c2f0246-a564-4d21-8bbc-439d706355ef" name="Changes" comment="Gjort om Längsta ord.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämning/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämning/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämning/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämning/TestInlämning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämning/TestInlämning.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c2f0246-a564-4d21-8bbc-439d706355ef" name="Changes" comment="Gjort om Längsta ord och fixat test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +189,13 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1667819953049</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="Gjort om Längsta ord och fixat test">
+      <created>1667826608342</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1667826608342</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +214,7 @@
     <MESSAGE value="Klara uppgiften!" />
     <MESSAGE value="Klara uppgiften! ända CurrentLongest till NewLongest" />
     <MESSAGE value="Gjort om Längsta ord." />
-    <option name="LAST_COMMIT_MESSAGE" value="Gjort om Längsta ord." />
+    <MESSAGE value="Gjort om Längsta ord och fixat test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gjort om Längsta ord och fixat test" />
   </component>
 </project>

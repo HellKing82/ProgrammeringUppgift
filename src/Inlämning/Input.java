@@ -23,12 +23,12 @@ public class Input {
         String[] WORDS = inputReader.split(" ");
         Words = Words + WORDS.length;
 
-        String[] NewLongest0 = inputReader.split(" ");
+        String[] NewLongest = inputReader.split(" ");
 
-        for (int i = 0; i < NewLongest0.length; i++)
-            if (NewLongest0[i].length() > Longest.length()) {
+        for (int i = 0; i < NewLongest.length; i++)
+            if (NewLongest[i].length() > Longest.length()) {
 
-                Longest = NewLongest0[i];
+                Longest = NewLongest[i];
             }
 
         Longest = getLongestWord();
