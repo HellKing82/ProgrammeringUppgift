@@ -13,11 +13,9 @@ public class Main {
 
         Input myInputReader = new Input();
 
-
         while (!(InputReader.equals("Stopp"))) {
             myInputReader.setInput(InputReader);
             InputReader = scan.nextLine();
-            myInputReader.getLongestWord2(InputReader);
 
         }
 

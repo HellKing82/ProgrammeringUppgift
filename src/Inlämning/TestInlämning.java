@@ -95,10 +95,10 @@ public class TestInlämning {
 
         Input myInput = new Input();
 
-        myInput.setInput("");
+        myInput.setInput("Hej");
 
         String actual = myInput.getLongestWord();
-        String expected = "";
+        String expected = "Hej";
 
         assertEquals(expected, actual);
     }
@@ -110,7 +110,7 @@ public class TestInlämning {
         Input myInput = new Input();
 
         myInput.setInput("hej på dig");
-        myInput.setInput("hej på dig. mår du bra, jag mår kanonbra ?");
+        myInput.setInput("hej på dig, mår du bra, jag mår kanonbra ?");
 
         String actual = myInput.getLongestWord();
         String expected = "kanonbra";
